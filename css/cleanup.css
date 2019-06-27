@@ -4,3 +4,4 @@
 #wall #tag-2 { display: none; }
 #wall .parent { display: none; }
 #tag-5 .slick { display: none; }
+#wall .parent #tag-5 .slick {display: none; }
